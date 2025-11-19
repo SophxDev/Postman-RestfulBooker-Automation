@@ -75,7 +75,7 @@ https://restful-booker.herokuapp.com
 
 ### 📌 1. Clonar repositorio
 
-git clone https://github.com/TU_USUARIO/postman-restfulbooker-automation.git
+git clone https://github.com/SophxDev/postman-restfulbooker-automation.git
 cd postman-restfulbooker-automation
 
 
