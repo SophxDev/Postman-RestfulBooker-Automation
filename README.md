@@ -138,7 +138,7 @@ pm.test("Status code 200", () => {
 1. Instalar Newman:
 npm install -g newman
 
-2. Ejecutar colección:
+3. Ejecutar colección:
 newman run collections/RestfulBooker.postman_collection.json -e environments/RestfulBooker-Prod.postman_environment.json
 
 ## 📊 Reporte HTML (recomendado)
